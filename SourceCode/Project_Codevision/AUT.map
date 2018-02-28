@@ -1,0 +1,14 @@
+CodeVisionAVR C Compiler V1.24.4a Standard
+(C) Copyright 1998-2004 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+e-mail:office@hpinfotech.com
+
+File: D:\Robocon2008\TruongTV\IT_Power++TestOK\GOV-15_04_2008\AUT.c
+Global variables memory map:
+
+Variable                          Address   Size
+SoLanQuaVachNgang                   R4,R5      2
+vt                                  R6,R7      2
+vp                                  R8,R9      2
+bitVungTrai                          R2.0    1/8
+bitVungPhai                          R2.1    1/8

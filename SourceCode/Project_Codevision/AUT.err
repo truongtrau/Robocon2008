@@ -1,0 +1,16 @@
+Creating   'AUT.eep'
+Creating   'AUT.obj'
+Creating   'AUT.lst'
+
+Assembling 'AUT.asm'
+Including  'AUT.vec'
+Including  'AUT.inc'
+
+Program memory usage:
+Code             : 1442 words
+Constants (dw/db):    9 words
+Unused           :    0 words
+Total            : 1451 words
+
+Assembly complete with no errors.
+Deleting   'AUT.eep'
